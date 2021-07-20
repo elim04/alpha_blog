@@ -1,5 +1,8 @@
 {
   "name": "alpha_blog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
